@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+[dev-packages]
+requests-mock = "==1.5.2"
+jabstract = "==0.1.2"
+
+[requires]
+python_version = "3.7"
